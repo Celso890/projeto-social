@@ -7,13 +7,13 @@
 }
 
 html, body{
-    height: 102.5vh;
+    height: 120vh;
     width: 98.8vw;
     background-color: black;
 }
 
 main{
-    height: 100vh;
+    height: 90vh;
     position: relative;
 }
 
@@ -25,7 +25,7 @@ body{
 
 section#telefone{
     position: absolute;
-    top: 50%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%, -50%); /* Faz a section ficar sempre no meio independente do tamanho da tela*/
     
